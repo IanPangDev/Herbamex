@@ -32,6 +32,4 @@
 ### Video de presentación del proyecto
 Puedes ver el video de presentación del proyecto en YouTube siguiendo el siguiente enlace:
 
-<p align="center">
-  [![Ver video en YouTube](https://img.youtube.com/vi/Byb33qHWKMc/0.jpg)](https://www.youtube.com/watch?v=Byb33qHWKMc)
-</p>
+[![Ver video en YouTube](https://img.youtube.com/vi/Byb33qHWKMc/0.jpg)](https://www.youtube.com/watch?v=Byb33qHWKMc)
