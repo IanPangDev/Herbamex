@@ -21,17 +21,17 @@
 
 ### Real
 
-<p align="center"><img src="Imagenes\Frente.jpg" width=100 height=200></img> <img src="Imagenes\Lateral.jpg" width=100 height=200></img><img src="Imagenes\Vista.jpg" width=100 height=200></img><br>Imagenes frontal, lateral y superior del invernadero</p>
+<p align="center"><img src="Imagenes\Frente.jpg" width=100 height=200></img> <img src="Imagenes\Lateral.jpg" width=100 height=200></img><img src="Imagenes\Superior.jpg" width=100 height=200></img><br>Imágenes frontal, lateral y superior del invernadero</p>
 
 ### Aplicación
 
-<p align="center"><img src="Imagenes\LCD.jpg" width=100 height=200></img> <img src="Imagenes\Riego.jpg" width=100 height=200></img><img src="Imagenes\Reporte.jpg" width=100 height=200></img><img src="Imagenes\Superior.jpg" width=100 height=200></img><br>Imagenes de la aplicacion móvil</p>
+<p align="center"><img src="Imagenes\LCD.jpg" width=100 height=200></img> <img src="Imagenes\Riego.jpg" width=100 height=200></img><img src="Imagenes\Reporte.jpg" width=100 height=200></img><img src="Imagenes\Vista.jpg" width=100 height=200></img><br>Imágenes de la aplicacion móvil</p>
 
 ## Documentación extra
 
 ### Video de presentación del proyecto
 Puedes ver el video de presentación del proyecto en YouTube siguiendo el siguiente enlace:
 
-<p align="center">[![Ver video en YouTube](https://img.youtube.com/vi/Byb33qHWKMc/0.jpg)](https://www.youtube.com/watch?v=Byb33qHWKMc)</p>
+[![Ver video en YouTube](https://img.youtube.com/vi/Byb33qHWKMc/0.jpg)](https://www.youtube.com/watch?v=Byb33qHWKMc)
 
 Este enlace abrirá el video en una nueva ventana del navegador.
