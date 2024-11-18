@@ -27,7 +27,13 @@
 
 ### Aplicación
 
-<p align="center"><img src="Imagenes\LCD.jpg" width=100 height=200></img> <img src="Imagenes\Riego.jpg" width=100 height=200></img><img src="Imagenes\Reporte.jpg" width=100 height=200></img><br>Imagenes frontal y lateral del invernadero</p>
+<p align="center"><img src="Imagenes\LCD.jpg" width=100 height=200></img> <img src="Imagenes\Riego.jpg" width=100 height=200></img><img src="Imagenes\Reporte.jpg" width=100 height=200></img><br>Imagenes de la aplicacion móvil</p>
 
 ## Documentación extra
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Byb33qHWKMc?si=yP_IuionyHQkcyaK&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>Video de presentación del proyecto</p>
+
+### Video de presentación del proyecto
+Puedes ver el video de presentación del proyecto en YouTube siguiendo el siguiente enlace:
+
+[![Ver video en YouTube](https://img.youtube.com/vi/Byb33qHWKMc/0.jpg)](https://www.youtube.com/watch?v=Byb33qHWKMc)
+
+Este enlace abrirá el video en una nueva ventana del navegador.
