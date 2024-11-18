@@ -101,6 +101,10 @@ render.experimental.xml
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
+herbamex-7e6d0-firebase-adminsdk-ms7w7-26332f98f7.json
 
 # Android Profiling
 *.hprof
+
+# Modelo entrenado de keras
+79_5_DenseNet169.keras
