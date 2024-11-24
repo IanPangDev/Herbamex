@@ -10,6 +10,7 @@
 * Android (Java)
 * Unity (C#)
 * Blender
+* Firebase
 
 ## Estructura del proyecto
 * <p style="text-align: justify;"> Herbamex_Unity: Contiene el proyecto de Unity.<p>
