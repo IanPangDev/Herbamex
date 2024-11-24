@@ -21,11 +21,15 @@
 
 ### Real
 
-<p align="center"><img src="Imagenes\Frente.jpg" width=100 height=200></img> <img src="Imagenes\Lateral.jpg" width=100 height=200></img><img src="Imagenes\Superior.jpg" width=100 height=200></img><br>Imágenes frontal, lateral y superior del invernadero</p>
+<p align="center"><img src="Imagenes\Frente.jpg" width=200 height=400></img> <img src="Imagenes\Lateral.jpg" width=200 height=400></img><img src="Imagenes\Superior.jpg" width=200 height=400></img><br>Imágenes frontal, lateral y superior del invernadero</p>
 
 ### Aplicación
 
-<p align="center"><img src="Imagenes\LCD.jpg" width=100 height=200></img> <img src="Imagenes\Riego.jpg" width=100 height=200></img><img src="Imagenes\Reporte.jpg" width=100 height=200></img><img src="Imagenes\Vista.jpg" width=100 height=200></img><br>Imágenes de la aplicacion móvil</p>
+<p align="center"><img src="Imagenes\LCD.jpg" width=200 height=400></img> <img src="Imagenes\Riego.jpg" width=200 height=400></img><img src="Imagenes\Reporte.jpg" width=200 height=400></img><img src="Imagenes\Vista.jpg" width=200 height=400></img><br>Imágenes de la aplicacion móvil</p>
+
+## Funcionamiento de la Aplicación Móvil
+
+<p align="center"><img src="Imagenes\Herbamex.gif" width=200 height=400></img></p>
 
 ## Documentación extra
 
